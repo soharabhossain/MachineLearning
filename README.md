@@ -1,2 +1,2 @@
-# DataAnalysis
-Projects related to data analysis
+# Machine Learning - Python
+Projects related to Machine Learning in Python
